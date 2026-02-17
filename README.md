@@ -25,7 +25,6 @@
     <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://dart.dev" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://flutter.dev" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"  style="max-width: 100%;"> </a> 
-    <a href="https://www.rabbitmq.com" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" style="max-width: 100%;"> </a> 
   </p>
 </div>
 
